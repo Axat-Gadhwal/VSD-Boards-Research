@@ -41,4 +41,3 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 
 # VSD Squadron FM (FPGA MINI) Board Research and Projects
 
-
