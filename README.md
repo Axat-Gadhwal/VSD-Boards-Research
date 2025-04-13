@@ -32,12 +32,77 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 
 # **_"Creativity is just connecting things"_** -VSD Says  <img src="https://github.com/user-attachments/assets/8ce42fca-75d8-4bdc-aa83-3fc17ae75715" width =297.88 height=409.46 ALIGN=right>
 
-[![Thumbnail](https://github.com/user-attachments/assets/a3c162b1-0256-4eb2-820e-a56324733953)
+<img src="https://github.com/user-attachments/assets/a3c162b1-0256-4eb2-820e-a56324733953" Height="300" Width="500">
 
 
 **VSD**: Leading Community Aggregator for Semiconductor and EdTech Solution
 
+### Click on teh Following cards for detailed research and projects
+
+<P align ="left"><a href="https://www.vlsisystemdesign.com/vsdsquadronmini/"><img src="https://github.com/user-attachments/assets/f10ad44f-7639-4df4-9834-36bb17dc25b9"></a></P>
 
 
 # VSD Squadron FM (FPGA MINI) Board Research and Projects
+
+## 🧭 Project Overview
+
+**This repository curates a collection of hands-on projects developed using VSD Boards. Each project includes detailed documentation, source code, schematics, and step-by-step guides to facilitate learning and experimentation.​**
+
+## 🔗 Projects List
+
+Smart Plant Care
+
+Smart Dustbin
+
+Moisture Sensor
+
+2-Bit Comparator
+
+Automatic Light System
+
+UART Transmitter
+
+Mini Oscilloscope
+
+Click on any project to access its detailed guide.
+
+📘 Board Specifications
+Detailed specifications for each VSD Board are available in the docs/board-specs directory:​
+
+VSDSquadron Mini
+
+VSDSquadron FM
+
+VSDSquadron PRO
+
+🛠️ Getting Started
+Clone the Repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/vsd-projects.git
+cd vsd-projects
+Explore Projects:
+
+Navigate to the projects/ directory and select a project of interest.
+
+Follow the Guide:
+
+Each project contains a README.md with detailed instructions on setup, code, and execution.
+
+🤝 Contributing
+Contributions are welcome! If you've developed a project using a VSD Board, feel free to add it to this repository:​
+VLSI System Design
+
+Fork the repository.
+
+Add your project in the projects/ directory.
+
+Submit a pull request with a detailed README.md.
+
+📄 License
+This repository is licensed under the MIT License. See the LICENSE file for details.​
+
+For more information on VSD Boards and resources, visit the VLSI System Design website.
 
