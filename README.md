@@ -40,6 +40,8 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 ### Click on teh Following cards for detailed research and projects
 
 <P align ="left"><a href="https://www.vlsisystemdesign.com/vsdsquadronmini/"><img src="https://github.com/user-attachments/assets/f10ad44f-7639-4df4-9834-36bb17dc25b9"></a></P>
+<p align="right"><a href="https://www.vlsisystemdesign.com/vsdsquadronfm/"><img src="https://github.com/user-attachments/assets/aaf73a6c-fa6a-421b-b5e9-c67a7dfeefd5"></a></p>
+
 
 
 # VSD Squadron FM (FPGA MINI) Board Research and Projects
