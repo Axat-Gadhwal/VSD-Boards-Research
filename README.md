@@ -49,7 +49,7 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 ## 👾 List of Projects
 
 
-< a href = " https://github.com/Axat-Gadhwal/VSD-Boards-Research/tree/main/Project%201%20-%20RGB%20Led%20"><img src="Screenshot 2025-05-02 154904](https://github.com/user-attachments/assets/f60707b4-6f3a-4890-8362-887ea87477cf"></a>
+<a href = "https://github.com/Axat-Gadhwal/VSD-Boards-Research/tree/main/Project%201%20-%20RGB%20Led%20"><img src="Screenshot 2025-05-02 154904](https://github.com/user-attachments/assets/f60707b4-6f3a-4890-8362-887ea87477cf"></a>
 
 ## 📘 Board Specifications
 Detailed specifications for each VSD Board are available in the docs/board-specs directory:​
