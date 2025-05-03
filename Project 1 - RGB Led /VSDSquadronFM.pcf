@@ -1,0 +1,4 @@
+set_io clk 20
+set_io red_led 18
+set_io green_led 19
+set_io blue_led 48
