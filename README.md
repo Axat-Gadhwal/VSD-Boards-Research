@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/axat gadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axat gadhwal" height="30" width="40" /></a>
 <a href="https://fb.com/axat gadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="axat gadhwal" height="30" width="40" /></a>
 <a href="https://instagram.com/quality pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quality pixels" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/quality pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quality pixels" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ElecGarage-India" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ElecGarageINDIA" height="30" width="40" /></a>
 <a href="/www.vlsisystemdesign.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.vlsisystemdesign.com" height="30" width="40" /></a>
 </p>
 
