@@ -51,43 +51,22 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 
 <a href = "https://github.com/Axat-Gadhwal/VSD-Boards-Research/tree/main/Project%201%20-%20RGB%20Led%20"><img src="https://github.com/user-attachments/assets/f60707b4-6f3a-4890-8362-887ea87477cf"></a>
 
-## 📘 Board Specifications
-Detailed specifications for each VSD Board are available in the docs/board-specs directory:​
+![image](https://github.com/user-attachments/assets/f85d6ed1-428f-48b0-9c7a-858780c526c8)
 
-VSDSquadron Mini
 
-VSDSquadron FM
 
-VSDSquadron PRO
 
-🛠️ Getting Started
-Clone the Repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/vsd-projects.git
-cd vsd-projects
-Explore Projects:
+## 🤝 Contributing
 
-Navigate to the projects/ directory and select a project of interest.
-
-Follow the Guide:
-
-Each project contains a README.md with detailed instructions on setup, code, and execution.
-
-🤝 Contributing
 Contributions are welcome! If you've developed a project using a VSD Board, feel free to add it to this repository:​
-VLSI System Design
 
-Fork the repository.
+1. Fork the repository.
+2. Add your project in the projects/ directory.
+3. Submit a pull request with a detailed README.md.
 
-Add your project in the projects/ directory.
+## 📄 License
 
-Submit a pull request with a detailed README.md.
-
-📄 License
-This repository is licensed under the MIT License. See the LICENSE file for details.​
-
-For more information on VSD Boards and resources, visit the VLSI System Design website.
+- This repository is licensed under the MIT License. See the LICENSE file for details.​
+- For more information on VSD Boards and resources, visit the VLSI System Design website.
 
