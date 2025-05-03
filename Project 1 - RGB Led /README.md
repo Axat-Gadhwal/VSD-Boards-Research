@@ -2,19 +2,19 @@
 
 <a href="https://youtu.be/RerrX5EfLmk"><img src="https://github.com/user-attachments/assets/b1c561a5-2d1e-4994-b04a-279748493cf1"></a>
 
-Click the thumbnail to watch the Youtube video
+- Click the thumbnail to watch the Youtube video
 
 ## Let's start 
 
 A RGB Led is a type of led which has 4 pins : A GND, red, green and blue.
 
-- It is differnet from other leds becaus eit can light 3 colours.
+- It is differnet from other leds because it can light 3 colours.
 
 ![image](https://github.com/user-attachments/assets/64b75a14-7420-48e9-be0f-91e2107f025a)
 
-**We cam understand the difference between an led and an RGB Led by the following illustration:**
+**We can understand the difference between an led and an RGB Led by the following illustration:**
 
-![image](https://github.com/user-attachments/assets/b749a620-c7c8-47e0-a05f-c5eebf4d5cd7)
+<img src="https://github.com/user-attachments/assets/1c81409f-2a9e-4f2a-a46a-772156d54535" Width="850" Height="500">
 
 ## Project Overview
 
