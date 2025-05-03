@@ -1,5 +1,4 @@
-<p><img src="https://github.com/user-attachments/assets/0c0c1366-efa6-4308-84cf-0e137a1ad924" Width=141.82 Height=67.46 ALIGN=left><p align="right"><img src="https://github.com/user-attachments/assets/e55fa4a3-7e42-49b9-9c31-84dd0c042695" Width=155 Height=95></p></p> 
-
+<p><img src="https://github.com/user-attachments/assets/0c0c1366-efa6-4308-84cf-0e137a1ad924" Width=141.82 Height=67.46 ALIGN=left><p align="right"></p>
 
 
 <h3 align="left">Connect with me:</h3>
