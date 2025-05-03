@@ -46,29 +46,11 @@ Created by Axat Gadhwal of Grade 8th of APS Gwalior{Previous year APS Varanasi}.
 
 # VSD Squadron FM (FPGA MINI) Board Research and Projects
 
-## 🧭 Project Overview
+## 👾 List of Projects
 
-**This repository curates a collection of hands-on projects developed using VSD Boards. Each project includes detailed documentation, source code, schematics, and step-by-step guides to facilitate learning and experimentation.​**
+< a href = 
 
-## 🔗 Projects List
-
-Smart Plant Care
-
-Smart Dustbin
-
-Moisture Sensor
-
-2-Bit Comparator
-
-Automatic Light System
-
-UART Transmitter
-
-Mini Oscilloscope
-
-Click on any project to access its detailed guide.
-
-📘 Board Specifications
+## 📘 Board Specifications
 Detailed specifications for each VSD Board are available in the docs/board-specs directory:​
 
 VSDSquadron Mini
