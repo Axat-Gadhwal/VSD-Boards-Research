@@ -1,58 +1,64 @@
-# RGB LED Using VSD Squadron FPGA Mini
+# RGB LED using VSD Squadron FM (FPGA Mini)
 
-<a href="https://youtu.be/RerrX5EfLmk"><img src="https://github.com/user-attachments/assets/b1c561a5-2d1e-4994-b04a-279748493cf1"></a>
+[![Watch demo](https://github.com/user-attachments/assets/b1c561a5-2d1e-4994-b04a-279748493cf1)](https://youtu.be/RerrX5EfLmk)
 
-- Click the thumbnail to watch the Youtube video
+> Click the thumbnail above to watch the YouTube demo.
 
-## Let's start 
+## Introduction
 
-A RGB Led is a type of led which has 4 pins : A GND, red, green and blue.
+An RGB LED has four pins:
 
-- It is differnet from other leds because it can light 3 colours.
+- 1 common pin (usually GND for common-cathode RGB LEDs)
+- 3 color pins: Red, Green, Blue
 
-![image](https://github.com/user-attachments/assets/64b75a14-7420-48e9-be0f-91e2107f025a)
+Unlike a single-color LED, an RGB LED allows multiple color combinations by controlling each channel independently.
 
-**We can understand the difference between an led and an RGB Led by the following illustration:**
-
-<img src="https://github.com/user-attachments/assets/1c81409f-2a9e-4f2a-a46a-772156d54535" Width="850" Height="500">
+![RGB LED pinout](https://github.com/user-attachments/assets/64b75a14-7420-48e9-be0f-91e2107f025a)
 
 ## Project Overview
 
-### 🔌 Basic Wiring for RGB LED to FPGA
+This project connects an RGB LED to FPGA I/O pins on the **VSD Squadron FM** board and controls each channel through Verilog.
 
-| **RGB LED Pin**       | **Connect To**                                      | **Description**                    |
-|------------------------|-----------------------------------------------------|------------------------------------|
-| Common Cathode (-)     | GND (on the VSD Squadoron FM)                       | Common ground for all colors       |
-| Red Pin                | FPGA I/O Pin (e.g., Pin 18) via 220Ω resistor       | Controls Red light                 |
-| Green Pin              | FPGA I/O Pin (e.g., Pin 19) via 220Ω resistor       | Controls Green light               |
-| Blue Pin               | FPGA I/O Pin (e.g., Pin 48) via 220Ω resistor       | Controls Blue light                |
+### Basic Wiring
 
+| RGB LED Pin | Connect To | Description |
+|---|---|---|
+| Common Cathode (-) | GND on VSD Squadron FM | Shared ground |
+| Red | FPGA pin 18 via 220Ω resistor | Red channel control |
+| Green | FPGA pin 19 via 220Ω resistor | Green channel control |
+| Blue | FPGA pin 48 via 220Ω resistor | Blue channel control |
 
-### 🧷 Step-by-Step Wiring
+### Step-by-Step Wiring
 
-- Find the Common Pin of the RGB LED (longest pin usually).
-- Connect the Common Pin to GND (GND Pin) on your FPGA.
+1. Identify the common pin of the RGB LED (often the longest pin).
+2. Connect the common pin to **GND** on the FPGA board.
+3. Connect each color pin through a resistor:
+   - Red → 220Ω → Pin 18
+   - Green → 220Ω → Pin 19
+   - Blue → 220Ω → Pin 48
 
-### Connect:
+## Important Notes
 
-1. Red leg → 220Ω Resistor → FPGA Pin 18
-2. Green leg → 220Ω Resistor → FPGA Pin 19
-3. Blue leg → 220Ω Resistor → FPGA Pin 48
+- Always use series resistors to protect LED channels.
+- If the LED does not light, verify whether it is a **common-cathode** or **common-anode** type.
+- If brightness is too low, you may test lower resistor values (for example 150Ω), while staying within safe current limits.
 
-- Resistor is important to protect each color from burning out.
+## Build and Flash
 
-### 🔥 Important Notes:
+Run the following inside this project folder:
 
-- If nothing lights up, check whether your LED is Common Anode type (rare in kits).
-- Always use resistors for each color!
-- If colors are dim, slightly reduce resistor value (like 150Ω).
+```bash
+make clean
+make build
+sudo make flash
+```
 
-## Steps for Implementing the code
+## Files in this Project
 
-On your Virtual Machine, type : 
+- `top.v` – Verilog design
+- `VSDSquadronFM.pcf` – pin constraints
+- `Makefile` – build and flash commands
 
-`make clean; make build; sudo make flash`
+## Thank You
 
-
-
-## Thank You and Happy Hacking
+Happy hacking with FPGA + VSD boards.
