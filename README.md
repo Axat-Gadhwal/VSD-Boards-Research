@@ -2,7 +2,6 @@
 
 A community-driven repository for experiments, notes, and projects built on **VLSI System Design (VSD)** hardware platforms.
 
-<<<<<< codex/update-repo-with-vlsi-system-design-info-fw167d
 ## Acknowledgement
 
 Created and maintained by Axat Gadhwal, with project support from the VSD learning ecosystem.
